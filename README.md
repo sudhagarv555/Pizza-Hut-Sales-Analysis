@@ -23,3 +23,23 @@ What is the impact of holidays and special events on sales?
 What is the ratio of online orders vs. in-store orders?
 
 Dashboard Interaction-<a href="https://github.com/sudhagarv555/Pizza-Hut-Sales-Analysis/blob/main/PIZZA%20DashBoard.pbix">View Dashboard</a>
+
+## Process 
+Data Collection: Gather sales data (daily, weekly, monthly), customer feedback, promotions, and geographical information.
+
+Data Cleaning & Preparation: Clean the data, handle missing values, and structure it for analysis.
+
+Exploratory Analysis: Analyze sales trends, product performance, customer feedback, and regional differences.
+
+Key Metrics Calculation: Calculate key metrics like total revenue, average order value, sales growth, and customer satisfaction.
+
+Data Visualization: Create charts to visualize trends, product performance, and sales distribution.
+
+Generate Insights: Identify top-selling items, sales drivers, regional trends, and the impact of promotions.
+
+Recommendations: Suggest strategies for product optimization, marketing, and improving customer satisfaction.
+
+
+
+
+
