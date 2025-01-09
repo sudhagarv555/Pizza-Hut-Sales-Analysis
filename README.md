@@ -5,3 +5,13 @@ This project focuses on analyzing Pizza Hut's sales data to uncover insights int
 
 ## Dataset Used 
 -<a href="https://github.com/sudhagarv555/Pizza-Hut-Sales-Analysis/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
+
+## Questions (KPIs)
+
+What are the peak sales periods (daily, weekly, monthly)?
+Which pizza categories (classic, specialty, value) drive the most revenue?
+How do promotions and discounts impact sales?
+What are the regional differences in sales performance?
+How does customer feedback correlate with sales trends?
+What is the impact of holidays and special events on sales?
+What is the ratio of online orders vs. in-store orders?
