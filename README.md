@@ -39,6 +39,10 @@ Generate Insights: Identify top-selling items, sales drivers, regional trends, a
 
 Recommendations: Suggest strategies for product optimization, marketing, and improving customer satisfaction.
 
+## Dashboard
+![Screenshot 2025-01-09 123343](https://github.com/user-attachments/assets/e2a08d4b-4a5f-42a6-ad47-c776befcccb4)
+
+
 
 
 
