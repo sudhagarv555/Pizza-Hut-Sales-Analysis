@@ -42,6 +42,12 @@ Recommendations: Suggest strategies for product optimization, marketing, and imp
 ## Dashboard
 ![Screenshot 2025-01-09 123343](https://github.com/user-attachments/assets/e2a08d4b-4a5f-42a6-ad47-c776befcccb4)
 
+## Project Insight
+Key insights from the Pizza Hut sales analysis reveal that sales peak during holidays, weekends, and special events, suggesting targeted promotions can drive higher revenue. Certain pizza categories dominate sales, while regional variations highlight areas for tailored marketing strategies. Promotions significantly boost sales, especially during low-demand periods. Positive customer feedback correlates with higher sales, indicating the importance of improving service quality. Additionally, the growth in online and delivery orders points to the need for further investment in digital platforms.
+
+## Final conclusion
+In conclusion, the analysis of Pizza Hut's sales data provides valuable insights into customer preferences, sales trends, and operational performance. Key findings show that strategic promotions, targeted marketing efforts, and improvements in service quality can significantly boost sales. Additionally, the rise in online and delivery orders suggests a strong opportunity for investment in digital platforms. By optimizing product offerings, focusing on high-performing regions, and responding to customer feedback, Pizza Hut can enhance customer satisfaction, increase revenue, and ensure sustained growth.
+
 
 
 
